@@ -8,7 +8,7 @@
 - 🎓 MSc in Data Science & Analytics @ University of Hertfordshire  
 - 🎓 MSc in Computer Science with Specialisation in AI @ Kannur University  
 - 🎓 BSc in Computer Science @ Kannur University  
-- 💻 Ex-Full Stack Developer at E Caret Solutions (PHP Laravel | Healthcare Tech)  
+- 💻 Ex-Full Stack Developer at E Caret Solutions (PHP Laravel)  
 - 🤖 Passionate about building AI tools with real-world impact  
 
 ---
@@ -50,7 +50,7 @@
 Seeking a **Data Science / AI / Software Developer** role where I can:
 
 - Build tools that improve people’s lives  
-- Work on impactful projects in **healthcare**, **education**, or **climate tech**  
+- Work on impactful projects  
 - Grow with a passionate, collaborative team  
 
 ---
