@@ -63,4 +63,4 @@ Seeking a **Data Science / AI / Software Developer** role where I can:
 ---
 
 > “Tech should touch lives. I’m here to make sure it does.”  
-> — Rishika Rajan 💙
+> Rishika Rajan 💙
